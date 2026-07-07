@@ -101,3 +101,4 @@ ros2 run color_detector environment_publisher
 | 面向 | 大二能源环境专业 |
 | 预备知识 | 基础 Python（无基础有速查） |
 | 技术栈 | ROS2 Humble + OpenCV 4.x + Python 3.10 |
+
